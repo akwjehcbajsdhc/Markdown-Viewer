@@ -42,10 +42,6 @@ While she still has a basic attack that deals physical damage and can be increas
 
 ### How abilities scale
 
-<span style="color:#2471A3">some text</span>
-
-<span style="color:#F39C12">some text</span>
-
 Abilities scale with various stats, mostly <span style="color:#2471A3">ability power</span> or <span style="color:#F39C12">attack damage</span>, to modify their values. 
 
 > Annie's Q ability, *Disintegrate*, deals magic damage to a target enemy equal to 70 <span style="color:#2471A3">(+75% AP)</span>. The more <span style="color:#2471A3">ability power</span> Annie gets, the more damage her Q will deal. 
