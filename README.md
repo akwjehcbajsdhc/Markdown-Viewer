@@ -6,15 +6,17 @@ For example Elise, do both her forms use magic or melee? What exactly is ability
 
 ---
 
-# Answer:
+# Hovering over a damage source will tell you the damage type
 By u/Mo_ody
 
 ## Damage Types and How They're Reduced
-Physical damage is reduced by the armor stat.
+All damage can be split into three types:
 
-Magic damage is reduced by the magic resistance stat.
+- Physical damage is reduced by the armor stat.
 
-True damage ignores most damage modifying effects and isn't reduced by armor or magic resistance; the number shown on the tooltip will be the damage it deals.
+- Magic damage is reduced by the magic resistance stat.
+
+- True damage ignores most damage modifying effects and isn't reduced by armor or magic resistance; the number shown on the tooltip will be the damage it deals.
 
 > *Ignite* is a spell that deals true damage.
 >
@@ -35,9 +37,9 @@ Whether an ability does magic damage like Elise Q or physical damage like Miss F
 
 ## Damage Modifiers and Scalings
 
-Elise is mage champion where all of her abilities including her passive deal exclusively magic damage.
+Damage values are rarely static in League of Legends. Fur Elise, who is a mage champion, all of her abilities including her passive deal exclusively magic damage and these values are variable.
 
-While she still has a basic attack that deals physical damage and can be increased with the attack damage stat, she is better off using the ability power stat to increase the magic damage dealt by her abilities. As a mage, she is designed to cast spells this way.
+While she still has a basic attack that deals physical damage and can be increased with the <span style="color:#F39C12">attack damage</span> stat, she is better off using the <span style="color:#2471A3">ability power</span> stat to increase her ability damage. As a mage, she is designed to focus more on spell casts than basic attacks.
 
 
 ### How abilities scale
@@ -47,6 +49,8 @@ Abilities scale with various stats, mostly <span style="color:#2471A3">ability p
 > Annie's Q ability, *Disintegrate*, deals magic damage to a target enemy equal to 70 <span style="color:#2471A3">(+75% AP)</span>. The more <span style="color:#2471A3">ability power</span> Annie gets, the more damage her Q will deal. 
 >
 > Jarvan's W ability, *Golden Aegis*, grants him a shield that blocks an amount of incoming damage, equal to 60 <span style="color:#F39C12">(+70% AD)</span>. The more <span style="color:#F39C12">attack damage</span> Jarvan gets, the more damage his basic attacks will deal *and* his W will shield him for more.
+
+In Annie's case, if she has <span style="color:#2471A3">200 ability power</span>, *Disintegrate* will deal 70 <span style="color:#2471A3">(+150)</span> for a total of 220 magic damage.
 
 Abilities can interact with stats in unique ways, and it will be different for every champion. 
 
@@ -66,4 +70,4 @@ Just because an ability scales with <span style="color:#2471A3">ability power</s
 
 > Lee Sin's E ability, *Tempest* deals *magic damage* equal to 35 <span style="color:#F39C12">(+100% AD)</span>.
 
-Champions are capable of dealing a mix of both physical and magic damage with their abilities.
+Champions are capable of dealing a mix of both physical and magic damage with their abilities, but true damage is rarer.
